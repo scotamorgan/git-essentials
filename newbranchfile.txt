@@ -1,1 +1,2 @@
 New Branch File to be in new-branch.
+This was moved from new-branch to master.
